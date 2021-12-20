@@ -4,4 +4,4 @@ It's a pomodoro app written in Python. You can minimize it while you're working 
 
 You can download the .exe file and use it.
 
-![alt text](https://github.com/surucuyigit/Pomodoro/blob/main/tomato.png)
+![alt text](https://github.com/surucuyigit/Pomodoro/blob/main/Pomodoro_app.png)
